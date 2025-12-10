@@ -1,2 +1,2 @@
-# C Programming files
+# C language files
 Author- Amar Kant Diwakar
